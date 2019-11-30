@@ -3,4 +3,4 @@ project(training)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(training namespace.cpp)
+add_executable(training chapter5/lambda.cpp)
